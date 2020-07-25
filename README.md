@@ -1,4 +1,4 @@
-# Restaurant_Order_system
+# Restaurant Order System
 This is C++ project developed using conecepts of OOPS and Data Structures
 
 ## Description
